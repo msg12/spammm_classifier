@@ -1,0 +1,5 @@
+4000
+1899
+<class 'sklearn.svm._classes.SVC'>
+Training Accuracy: 99.825 %
+Test Accuracy: 98.9 %
